@@ -51,3 +51,7 @@ Notice the use of [JSONField](https://docs.djangoproject.com/en/3.1/ref/models/f
 
 - start time: 2:00
 - end time: 4:00
+  
+## pull requst
+
+- PR [link](https://github.com/baselatalla/drf-deployment/pull/1)

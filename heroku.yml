@@ -1,0 +1,7 @@
+build:
+  docker:
+    web: Dockerfile
+release:
+  image: web
+run:
+  web: gunicorn phoneAPI_project.wsgi --workers 4
